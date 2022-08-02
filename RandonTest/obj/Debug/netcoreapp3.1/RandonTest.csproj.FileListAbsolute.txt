@@ -1,0 +1,14 @@
+D:\Users\USER\Docs\Projects_Csharp\RandonTest\bin\Debug\netcoreapp3.1\RandonTest.exe
+D:\Users\USER\Docs\Projects_Csharp\RandonTest\bin\Debug\netcoreapp3.1\RandonTest.deps.json
+D:\Users\USER\Docs\Projects_Csharp\RandonTest\bin\Debug\netcoreapp3.1\RandonTest.runtimeconfig.json
+D:\Users\USER\Docs\Projects_Csharp\RandonTest\bin\Debug\netcoreapp3.1\RandonTest.runtimeconfig.dev.json
+D:\Users\USER\Docs\Projects_Csharp\RandonTest\bin\Debug\netcoreapp3.1\RandonTest.dll
+D:\Users\USER\Docs\Projects_Csharp\RandonTest\bin\Debug\netcoreapp3.1\RandonTest.pdb
+D:\Users\USER\Docs\Projects_Csharp\RandonTest\obj\Debug\netcoreapp3.1\RandonTest.csproj.AssemblyReference.cache
+D:\Users\USER\Docs\Projects_Csharp\RandonTest\obj\Debug\netcoreapp3.1\RandonTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\USER\Docs\Projects_Csharp\RandonTest\obj\Debug\netcoreapp3.1\RandonTest.AssemblyInfoInputs.cache
+D:\Users\USER\Docs\Projects_Csharp\RandonTest\obj\Debug\netcoreapp3.1\RandonTest.AssemblyInfo.cs
+D:\Users\USER\Docs\Projects_Csharp\RandonTest\obj\Debug\netcoreapp3.1\RandonTest.csproj.CoreCompileInputs.cache
+D:\Users\USER\Docs\Projects_Csharp\RandonTest\obj\Debug\netcoreapp3.1\RandonTest.dll
+D:\Users\USER\Docs\Projects_Csharp\RandonTest\obj\Debug\netcoreapp3.1\RandonTest.pdb
+D:\Users\USER\Docs\Projects_Csharp\RandonTest\obj\Debug\netcoreapp3.1\RandonTest.genruntimeconfig.cache

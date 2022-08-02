@@ -1,0 +1,14 @@
+D:\Users\USER\Docs\Projects_Csharp\ElephantSwap\bin\Debug\netcoreapp3.1\ElephantSwap.exe
+D:\Users\USER\Docs\Projects_Csharp\ElephantSwap\bin\Debug\netcoreapp3.1\ElephantSwap.deps.json
+D:\Users\USER\Docs\Projects_Csharp\ElephantSwap\bin\Debug\netcoreapp3.1\ElephantSwap.runtimeconfig.json
+D:\Users\USER\Docs\Projects_Csharp\ElephantSwap\bin\Debug\netcoreapp3.1\ElephantSwap.runtimeconfig.dev.json
+D:\Users\USER\Docs\Projects_Csharp\ElephantSwap\bin\Debug\netcoreapp3.1\ElephantSwap.dll
+D:\Users\USER\Docs\Projects_Csharp\ElephantSwap\bin\Debug\netcoreapp3.1\ElephantSwap.pdb
+D:\Users\USER\Docs\Projects_Csharp\ElephantSwap\obj\Debug\netcoreapp3.1\ElephantSwap.csproj.AssemblyReference.cache
+D:\Users\USER\Docs\Projects_Csharp\ElephantSwap\obj\Debug\netcoreapp3.1\ElephantSwap.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\USER\Docs\Projects_Csharp\ElephantSwap\obj\Debug\netcoreapp3.1\ElephantSwap.AssemblyInfoInputs.cache
+D:\Users\USER\Docs\Projects_Csharp\ElephantSwap\obj\Debug\netcoreapp3.1\ElephantSwap.AssemblyInfo.cs
+D:\Users\USER\Docs\Projects_Csharp\ElephantSwap\obj\Debug\netcoreapp3.1\ElephantSwap.csproj.CoreCompileInputs.cache
+D:\Users\USER\Docs\Projects_Csharp\ElephantSwap\obj\Debug\netcoreapp3.1\ElephantSwap.dll
+D:\Users\USER\Docs\Projects_Csharp\ElephantSwap\obj\Debug\netcoreapp3.1\ElephantSwap.pdb
+D:\Users\USER\Docs\Projects_Csharp\ElephantSwap\obj\Debug\netcoreapp3.1\ElephantSwap.genruntimeconfig.cache

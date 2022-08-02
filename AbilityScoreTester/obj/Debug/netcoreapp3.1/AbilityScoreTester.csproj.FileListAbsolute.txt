@@ -1,0 +1,14 @@
+D:\Users\USER\Docs\Projects_Csharp\AbilityScoreTester\bin\Debug\netcoreapp3.1\AbilityScoreTester.exe
+D:\Users\USER\Docs\Projects_Csharp\AbilityScoreTester\bin\Debug\netcoreapp3.1\AbilityScoreTester.deps.json
+D:\Users\USER\Docs\Projects_Csharp\AbilityScoreTester\bin\Debug\netcoreapp3.1\AbilityScoreTester.runtimeconfig.json
+D:\Users\USER\Docs\Projects_Csharp\AbilityScoreTester\bin\Debug\netcoreapp3.1\AbilityScoreTester.runtimeconfig.dev.json
+D:\Users\USER\Docs\Projects_Csharp\AbilityScoreTester\bin\Debug\netcoreapp3.1\AbilityScoreTester.dll
+D:\Users\USER\Docs\Projects_Csharp\AbilityScoreTester\bin\Debug\netcoreapp3.1\AbilityScoreTester.pdb
+D:\Users\USER\Docs\Projects_Csharp\AbilityScoreTester\obj\Debug\netcoreapp3.1\AbilityScoreTester.csproj.AssemblyReference.cache
+D:\Users\USER\Docs\Projects_Csharp\AbilityScoreTester\obj\Debug\netcoreapp3.1\AbilityScoreTester.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\USER\Docs\Projects_Csharp\AbilityScoreTester\obj\Debug\netcoreapp3.1\AbilityScoreTester.AssemblyInfoInputs.cache
+D:\Users\USER\Docs\Projects_Csharp\AbilityScoreTester\obj\Debug\netcoreapp3.1\AbilityScoreTester.AssemblyInfo.cs
+D:\Users\USER\Docs\Projects_Csharp\AbilityScoreTester\obj\Debug\netcoreapp3.1\AbilityScoreTester.csproj.CoreCompileInputs.cache
+D:\Users\USER\Docs\Projects_Csharp\AbilityScoreTester\obj\Debug\netcoreapp3.1\AbilityScoreTester.dll
+D:\Users\USER\Docs\Projects_Csharp\AbilityScoreTester\obj\Debug\netcoreapp3.1\AbilityScoreTester.pdb
+D:\Users\USER\Docs\Projects_Csharp\AbilityScoreTester\obj\Debug\netcoreapp3.1\AbilityScoreTester.genruntimeconfig.cache

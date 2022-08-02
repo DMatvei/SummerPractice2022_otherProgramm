@@ -1,0 +1,14 @@
+D:\Users\USER\Docs\Projects_Csharp\CasinoConsole\bin\Debug\netcoreapp3.1\CasinoConsole.exe
+D:\Users\USER\Docs\Projects_Csharp\CasinoConsole\bin\Debug\netcoreapp3.1\CasinoConsole.deps.json
+D:\Users\USER\Docs\Projects_Csharp\CasinoConsole\bin\Debug\netcoreapp3.1\CasinoConsole.runtimeconfig.json
+D:\Users\USER\Docs\Projects_Csharp\CasinoConsole\bin\Debug\netcoreapp3.1\CasinoConsole.runtimeconfig.dev.json
+D:\Users\USER\Docs\Projects_Csharp\CasinoConsole\bin\Debug\netcoreapp3.1\CasinoConsole.dll
+D:\Users\USER\Docs\Projects_Csharp\CasinoConsole\bin\Debug\netcoreapp3.1\CasinoConsole.pdb
+D:\Users\USER\Docs\Projects_Csharp\CasinoConsole\obj\Debug\netcoreapp3.1\CasinoConsole.csproj.AssemblyReference.cache
+D:\Users\USER\Docs\Projects_Csharp\CasinoConsole\obj\Debug\netcoreapp3.1\CasinoConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\USER\Docs\Projects_Csharp\CasinoConsole\obj\Debug\netcoreapp3.1\CasinoConsole.AssemblyInfoInputs.cache
+D:\Users\USER\Docs\Projects_Csharp\CasinoConsole\obj\Debug\netcoreapp3.1\CasinoConsole.AssemblyInfo.cs
+D:\Users\USER\Docs\Projects_Csharp\CasinoConsole\obj\Debug\netcoreapp3.1\CasinoConsole.csproj.CoreCompileInputs.cache
+D:\Users\USER\Docs\Projects_Csharp\CasinoConsole\obj\Debug\netcoreapp3.1\CasinoConsole.dll
+D:\Users\USER\Docs\Projects_Csharp\CasinoConsole\obj\Debug\netcoreapp3.1\CasinoConsole.pdb
+D:\Users\USER\Docs\Projects_Csharp\CasinoConsole\obj\Debug\netcoreapp3.1\CasinoConsole.genruntimeconfig.cache
